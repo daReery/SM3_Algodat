@@ -1,4 +1,4 @@
-# algodieSM3
+# SM3_Algodat
 
 1. Modul 1-6
 2. Respon Akhir 1-6
