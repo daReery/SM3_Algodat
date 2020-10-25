@@ -28,6 +28,7 @@ class stack{
 		else {
 			head=head.next;
 		}
+		size--;
 		return current.data;
 	}
 	void show() {
